@@ -1,7 +1,10 @@
-# README
+# Pokédex com Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>Um projeto para a disciplina eletiva de Tópicos em Sistemas de Informação. Uma Pokédex onde pode se consultar informações de pokémons, adicionar pokémons, fazer atualizações nas informações, e adicioná-los na lista de capturados.
+
+[![RubyGems version][rubygems-image]][rubygems-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
 Things you may want to cover:
 
